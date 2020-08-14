@@ -1,0 +1,7 @@
+{
+  "name": "parcel-plugin-domql",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "rackai",
+  "license": "MIT"
+}
