@@ -1,5 +1,5 @@
 {
-  "name": "parcel-plugin-domql",
+  "name": "parcel-plugin-domql-to-html",
   "version": "0.0.1",
   "main": "index.js",
   "author": "rackai",
